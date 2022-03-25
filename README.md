@@ -1,6 +1,9 @@
 # OpenAI-Gym-MountainCar-v0-CrossEntropy
 Train a Cross-Entropy Method in Policy-Based Methods with OpenAI Gtm's MountainCarContinous environment
 source from [mountain_car.py](https://github.com/openai/gym/blob/master/gym/envs/classic_control/mountain_car.py), [MountainCar-v0](https://gym.openai.com/envs/MountainCar-v0/)
+## Introduction
+A car is on a one-dimensional track, positioned between two "mountains". The goal is to drive up the mountain on the right; however, the car's engine is not strong enough to scale the mountain in a single pass. Therefore, the only way to succeed is to drive back and forth to build up momentum.
+
 ## Description
 The Mountain Car MDP is a deterministic MDP that consists of a car placed stochastically
 at the bottom of a sinusoidal valley, with the only possible actions being the accelerations
