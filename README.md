@@ -63,9 +63,10 @@ gym.make('MountainCar-v0')
 ```
 
 ## Instructions
-<!-- (Option1)
-* Follow the instructions in [`Navigation-DDQN-Dueling.ipynb`](https://github.com/bmaxdk/DeepRL-ND-Navigation/blob/main/Navigation-DDQN-Dueling.ipynb) to train and run the agent!
+
+* Follow the instructions in [`MountainCar-v0-CrossEntropy.ipynb`](https://github.com/bmaxdk/OpenAI-Gym-MountainCar-v0-CrossEntropy/blob/main/MountainCar-v0-CrossEntropy.ipynb) to train and run the agent!
 ```
-git clone https://github.com/bmaxdk/DeepRL-ND-Navigation.git
-cd DeepRL-ND-Navigation
-``` -->
+git clone https://github.com/bmaxdk/OpenAI-Gym-MountainCar-v0-CrossEntropy.git
+cd OpenAI-Gym-MountainCar-v0-CrossEntropy
+```
+Use jupyter notebook to open [`MountainCar-v0-CrossEntropy.ipynb`](https://github.com/bmaxdk/OpenAI-Gym-MountainCar-v0-CrossEntropy/blob/main/MountainCar-v0-CrossEntropy.ipynb)
