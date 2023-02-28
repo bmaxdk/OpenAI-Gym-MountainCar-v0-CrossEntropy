@@ -65,8 +65,8 @@ gym.make('MountainCar-v0')
 ## Instructions
 
 * Follow the instructions in [`MountainCar-v0-CrossEntropy.ipynb`](https://github.com/bmaxdk/OpenAI-Gym-MountainCar-v0-CrossEntropy/blob/main/MountainCar-v0-CrossEntropy.ipynb) to train and run the agent!
-```
-git clone https://github.com/bmaxdk/OpenAI-Gym-MountainCar-v0-CrossEntropy.git
-cd OpenAI-Gym-MountainCar-v0-CrossEntropy
+```bash
+$ git clone https://github.com/bmaxdk/OpenAI-Gym-MountainCar-v0-CrossEntropy.git
+$ cd OpenAI-Gym-MountainCar-v0-CrossEntropy
 ```
 Use jupyter notebook to open [`MountainCar-v0-CrossEntropy.ipynb`](https://github.com/bmaxdk/OpenAI-Gym-MountainCar-v0-CrossEntropy/blob/main/MountainCar-v0-CrossEntropy.ipynb)
